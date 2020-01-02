@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 new line just merge.
 merge with --no-ff.
+Git is a free software.
